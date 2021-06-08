@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/idMantenimeinto"
+        android:title="@string/txt_menu" />
+
+    <item
+        android:id="@+id/idCrudUsuario"
+        android:title="@string/txt_menu_actualiza_usuario" />
+
+    <item
+        android:id="@+id/idCrudAlumno"
+        android:title="@string/txt_menu_actualiza_alumno" />
+
+</menu>
